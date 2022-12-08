@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/dynamic/json?color=181717&label=GitHub%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtlf-AF233&logo=github&labelColoer=232c34)
 ![](https://img.shields.io/badge/dynamic/json?color=0b1a37&label=Steam%20Friends&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamFriends%26queryKey%3D76561198362504358&logo=steam&labelColor=134375)
 ![](https://img.shields.io/badge/dynamic/json?color=0b1a37&label=Steam%20Games&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamGames%26queryKey%3D76561198362504358&logo=steam&labelColor=134375)
+![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198362504358&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)
 <!--
 **tlf-AF233/tlf-AF233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
